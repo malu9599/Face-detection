@@ -13,7 +13,7 @@ Easy to set up and run
 Python 3.x
 OpenCV
 
-Install dependencies using:
+### Install dependencies using:
 
 pip install opencv-python
 ▶️ How to Run
