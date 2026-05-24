@@ -4,12 +4,13 @@ This project demonstrates real-time face detection using your laptop’s webcam 
 
 It captures live video, detects faces in each frame, and draws bounding boxes around them.
 
-🚀 Features
+->Features
 Real-time face detection via webcam
 Uses Haar Cascade Classifier
 Lightweight and fast
-Easy to set up and run
-🛠️ Requirements
+Easy to set up and run.
+
+->Requirements
 Python 3.x
 OpenCV
 
@@ -24,7 +25,7 @@ Run the script:
 python face_detection.py
 A window will open showing your webcam feed with detected faces.
 Press q to exit.
-🧠 How It Works
+### How It Works:
 The script uses a pre-trained Haar Cascade model:
 haarcascade_frontalface_default.xml
 Frames from the webcam are:
